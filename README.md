@@ -114,3 +114,40 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+# Seokseok Song’s Cybersecurity Portfolio
+Information Security | Network Analysis | Digital Forensics
+
+---
+
+## 🎯 포트폴리오 기획 및 선정사유
+이 포트폴리오는 정보보안 전공자로서 개인 역량과 학습 과정을 시각적으로 보여주기 위해 제작되었습니다.  
+Github Pages의 “Minimal Resume” 테마를 선정한 이유는 깔끔하고 직관적인 구조로, 방문자가 핵심 프로젝트와 기술 스택을 한눈에 볼 수 있기 때문입니다.
+
+보안 분야의 특성을 반영하기 위해 남색·흰색 계열을 사용하여 안정감과 신뢰성을 표현하였고, 
+‘프로젝트’, ‘기술 스택’, ‘연구/수상’ 섹션을 분리하여 학습성과를 체계적으로 정리하였습니다.
+
+이를 통해 단순히 디자인된 페이지를 넘어, 지속적으로 갱신 가능한 ‘전문 포트폴리오’로 발전시키고자 합니다.
+
+---
+
+## 🔐 Projects
+- **Network Intrusion Detection System (NIDS)**  
+  Snort 기반 네트워크 트래픽 분석 및 비정상 행위 탐지 프로젝트.
+
+- **Vulnerability Assessment Tool**  
+  Python을 이용한 자동 취약점 점검 툴 개발 및 보고서 자동 생성.
+
+- **Secure Messaging App**  
+  AES256 기반 암호화 메시징 서비스 구현 (Flask + Python).
+
+---
+
+## 🧠 Skills
+- **Languages:** Python, C, JavaScript  
+- **Security Tools:** Wireshark, Snort, Burp Suite, Metasploit  
+- **Systems:** Linux (Kali, Ubuntu), Windows Server  
+- **Interest Areas:** Threat Intelligence, Digital Forensics, Incident Response
+
+---
+
+

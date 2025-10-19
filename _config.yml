@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: "Seokseok Song’s Cybersecurity Portfolio"
+description: "Information Security | Network Analysis | Digital Forensics"
+theme: minima
+author: Seokseok Song
+email: bibimmeun@example.com
+github_username: bibimmeun
+
+# 상단 메뉴에 표시할 페이지
+header_pages:
+  - index.md
+  - about.md
+
+markdown: kramdown

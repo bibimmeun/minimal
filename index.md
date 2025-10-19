@@ -1,123 +1,20 @@
 ---
 layout: default
+title: "Seokseok Song's Cybersecurity Portfolio"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Welcome
+정보보안 전공자로서, 네트워크 보안과 디지털 포렌식 분야를 중심으로 학습과 프로젝트를 수행하고 있습니다.
 
-[Link to another page](./another-page.html).
+## 🎯 포트폴리오 기획 및 선정사유
+- **선정사유**: GitHub Pages의 Minimal 테마는 구조가 단순해 정보 전달이 명확하며, 유지보수가 용이합니다.  
+- **기획사유**: 보안 전공 특성을 반영해 ‘프로젝트·기술스택·성과’ 중심의 페이지로 구성하고, 남색(#0A2342) 톤으로 안정감과 신뢰성을 표현했습니다.
 
-There should be whitespace between paragraphs.
+## 🔐 주요 프로젝트
+- [NIDS(Snort) 기반 네트워크 이상 탐지](./projects/nids)
+- [Python 취약점 자동 점검 도구](./projects/vuln-scanner)
+- [AES256 기반 보안 메신저 (Flask)](./projects/secure-chat)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 📫 Contact
+- GitHub: [https://github.com/bibimmeun](https://github.com/bibimmeun)
+- Email: bibimmeun@example.com
